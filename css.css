@@ -10,6 +10,11 @@
 	width:auto;
 	padding-bottom:5em;
 }
+#mlg1 {
+	height:20em;
+	width:auto;
+	padding-bottom:10em;
+}
 body {
 	background:url("bg.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
